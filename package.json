@@ -1,5 +1,5 @@
 {
-  "homepage": "http://MuhdAmin93.github.io/react-weather",
+  "homepage": "http://MuhdAmin93.github.io/react-weather1",
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
@@ -42,5 +42,17 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhdAmin93/react-weather.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhdAmin93/react-weather/issues"
   }
 }
